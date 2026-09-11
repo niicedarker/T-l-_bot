@@ -1,0 +1,5 @@
+python-telegram-bot>=22,<23
+openai>=1.100
+qrcode[pil]>=7.4
+requests>=2.31
+yt-dlp>=2025.1
